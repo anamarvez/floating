@@ -1,0 +1,29 @@
+.blanco { 
+  	width: 600px;
+	border: solid black;
+	border-width: 1px;
+
+ }
+
+.amarillo{
+	background-color: yellow;
+	height: 100px;
+	width: 150px;
+	float: right;	
+
+
+}
+
+.azul{
+	background-color: blue;
+	height: 100px;
+	width: 150px;
+	float: right;
+}
+
+.rojo{
+	background-color: red;
+	height: 100px;
+	width: 150px;
+	float: right;
+}
